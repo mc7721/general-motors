@@ -1,0 +1,57 @@
+{
+    "name": "General Motors",
+    "description": "General Motors is home to Buick, Cadillac, GMC and Chevrolet. Find the latest news about GM automotive innovations, investor relations and more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/207-general-motors.jpg",
+    "tags": [
+        "api provider",
+        "automobiles",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/general-motors\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "General Motors",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/207-general-motors.jpg",
+            "humanURL": "https:\/\/developer.gm.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/general-motors-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/general-motors-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/general-motors"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/general-motors"
+        },
+        {
+            "type": "Email",
+            "url": "socialmedia@gm.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GM"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developer.gm.com\/"
+        }
+    ]
+}
